@@ -1,0 +1,13 @@
+# 데이터 (WSI, RNA-seq, 타일, 매니페스트, 학습된 모델 등)
+data/
+
+# 모델 가중치
+*.pt
+*.pth
+
+# 로그
+*.log
+
+# Python 캐시
+__pycache__/
+*.pyc

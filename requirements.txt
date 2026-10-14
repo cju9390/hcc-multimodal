@@ -1,0 +1,7 @@
+requests
+openpyxl
+numpy
+pillow
+tiffslide
+torch
+torchvision
